@@ -1,0 +1,26 @@
+        /* internal css
+        */
+        
+        img {
+            height: 200px;
+            width: 300px;
+        }
+        /* body {
+            text-align: center;
+        } */
+        
+        body {
+            background-color: #E8F9FD;
+        }
+        
+        hr {
+            border-style: none;
+            border-bottom-style: dotted;
+            background-color: none;
+            height: 0px;
+            width: 5%;
+            border-width: 5px;
+            /*it represents the width between two dots*/
+            border-color: grey;
+            /*insted of px use percentage*/
+        }
